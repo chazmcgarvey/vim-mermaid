@@ -2,6 +2,8 @@
 
 This makes Vim support mermaid diagram syntax.
 
+![Screenshot](https://raw.githubusercontent.com/chazmcgarvey/vim-mermaid/master/screenshot.png)
+
 ## Install
 
 Using [vim-plug](https://github.com/junegunn/vim-plug):
